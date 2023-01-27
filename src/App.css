@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700&display=swap');
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+#root {
+  font-family: 'Public Sans', sans-serif;
+
+}
+
+.input-box-shadow{
+  filter: drop-shadow(-4px -4px 44px rgba(0, 0, 0, 0.08));
+}
+
+.slick-prev:before, 
+.slick-next:before {
+     color: black;
+     font-size: 40px;
+}
+
+.slick-next:before{
+  margin-left: -35px;
+}
+
+.slick-prev{
+  z-index: 99999;
+}
+
+.category-card:hover .arrow-icon{
+  fill: white;
+}
+
+
+
+
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
