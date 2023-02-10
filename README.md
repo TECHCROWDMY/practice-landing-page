@@ -1,2 +1,3 @@
 ﻿# practice-landing-page
-![alt text](http://url/to/cover.jpeg)
+![alt text](https://github.com/TECHCROWDMY/practice-landing-page/cover.jpg?raw=true)
+
