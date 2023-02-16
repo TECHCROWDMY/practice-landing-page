@@ -52,14 +52,14 @@ const Courses = () => {
               <p className='text-[#6D737A]'>Various versions have evolved over the years, sometimes by accident.</p>
             </div>
             
-            <Slider {...settings} className='px-5'>
+            {/* <Slider {...settings} className='px-5'>
               {courses.map((course,i)=>
                 <div key={i}>
                   <Card course={course} />
                 </div> ) }
               
 
-            </Slider>
+            </Slider> */}
             
         </div>
 
