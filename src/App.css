@@ -23,6 +23,7 @@
 
 .slick-prev{
   z-index: 99999;
+  margin-left: 25px;
 }
 
 .category-card:hover .arrow-icon{
