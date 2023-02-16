@@ -15,7 +15,7 @@ const Hero = () => {
                 </h1>
                 <p className='py-2 text-lg text-gray-600'>Various versions have evolved over the years, sometimes by accident.</p>
                 
-                <form className='bg-white border max-w-[700px] p-4 input-box-shadow rounded-md flex justify-between'>
+                <form className='bg-white border max-w-[500px] p-4 input-box-shadow rounded-md flex justify-between'>
                     <input 
                         className='bg-white'
                         type="text"
