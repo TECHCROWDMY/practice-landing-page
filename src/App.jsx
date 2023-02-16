@@ -7,8 +7,8 @@ const App = () => {
     <div className='border border-black'>
       <Navbar />
       <Hero />
-      {/* <Companies/>
-      <Courses />
+      <Companies/>
+      {/* <Courses />
       <Achievement />
       <Categories />
       <Feedback /> */}
