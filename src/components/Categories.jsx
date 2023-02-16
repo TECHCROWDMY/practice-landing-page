@@ -17,7 +17,7 @@ const Categories = () => {
                 <h1 className='md:leading-[72px] text-3xl font-bold'>Most <span className='text-[#20B486]'>Popular Categories</span></h1>
                 <p className='text-lg text-gray-600'>Various versions have evolved over the years, sometimes by accident.</p>
                 
-                <div className='grid lg:grid-cols-4 grid-cols-2 py-12 md:gap-4 gap-1'>
+                <div className='grid lg:grid-cols-4 grid-cols-2 py-12 md:gap-4 gap-1 max-w-[500px]'>
                     <CategoryCard  icons={<BsVectorPen size={30} />} title={'Design'} />
                     <CategoryCard icons={<TiHtml5 size={30} />} title={'Development'} />
                     <CategoryCard icons={<TbMicrophone2 size={30} />} title={'Marketing'} />
