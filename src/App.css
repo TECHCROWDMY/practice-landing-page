@@ -42,7 +42,8 @@
 
 .slick-arrow{
   position: absolute;
-  right:0;
+  right:50;
+  margin-right: 25px;
  }
 
 .slick-dots {
