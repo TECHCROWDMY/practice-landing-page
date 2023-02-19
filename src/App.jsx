@@ -4,14 +4,14 @@ import './App.css'
 
 const App = () => {
   return (
-    <div className='border border-black'>
+    <div>
       <Navbar />
       <Hero />
       <Companies/>
       <Courses />
-      {/* <Achievement />
+      <Achievement />
       <Categories />
-      <Feedback /> */}
+      <Feedback />
       <CTA />
       <Footer />
     </div>
