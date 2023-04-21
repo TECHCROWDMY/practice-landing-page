@@ -4,7 +4,7 @@
 
 1. Clone the repository.
 2. Run npm install command.
-3. 
+3. Run npm run dev
 
 
 
